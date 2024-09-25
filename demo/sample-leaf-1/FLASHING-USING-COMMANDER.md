@@ -8,17 +8,17 @@
 
 2. In the Simplicity Commander window, click Select Kit and choose your radio board.
 
-![Silicon Labs - design](./images/commander-select-board.png)
+![Silicon Labs - design](../images/attestation-overview.png)
 
 3. In the navigation pane, go to the Flash section.
 
 4. Above "Reload tab" your board will be displayed, click Browse next to the Binary File field and locate the appropriate bootloader binary for your board.
 
-![Silicon Labs - design](./images/select-flash-option-efr32-commander.png)
+![Silicon Labs - design](../images/single-network-topology.png)
 
 5. Click Flash, the bootloader will be flashed and the Log Window will display a "Flashing completed Successfully" message.
 
-![Silicon Labs - design](./images/simplicity-commander-flash-bootloader.png)
+![Silicon Labs - design](../images/certificateauthentication.png)
 
 ## Flashing the EFR32 Matter Pre-Built Binary using Simplicity Commander
 
@@ -26,17 +26,17 @@
 
 2. In the Simplicity Commander window, click Select Kit and choose your radio board.
 
-![Silicon Labs - design](./images/commander-select-board.png)
+![Silicon Labs - design](../images/communication-examples.jpg)
 
 3. In the navigation pane, go to the Flash section.
    
 4. Above beside "Reload tab" board will be displayed, click Browse next to the Binary File field and locate binary.
 
-![Silicon Labs - design](./images/select-flash-option-efr32-commander.png)
+![Silicon Labs - design](../images/build_efr32_example.gif)
 
 5. Click Flash, the binary will be flashed and the Log Window will display a "Flashing completed Successfully" message.
 
-![Silicon Labs - design](./images/commander-flash-success-efr32.png)
+![Silicon Labs - design](../images/dcl-overview.png)
 
 
 ## Flashing the SiWx917 SOC Matter Pre-Built Binary using Simplicity Commander
@@ -45,13 +45,13 @@
 
 2. In the Simplicity Commander window, click Select Kit and choose your radio board.
 
-![Silicon Labs - design](./images/commander-select-board.png)
+![Silicon Labs - design](../images/ecosystem.jpg)
 
 3. In the navigation pane, go to the Flash section.
 
 4. Above beside "Reload tab" board will be displayed, click Browse next to the Binary File field and locate binary.
 
-![Silicon Labs - design](../images/select-flash-option-soc-commander.png)
+![Silicon Labs - design](../images/matter-network-example.png)
 
 5. Click Flash, the binary will be flashed and the Log Window will display a "Flashing completed Successfully" message.
 
